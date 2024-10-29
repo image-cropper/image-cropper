@@ -1,0 +1,17 @@
+/* src/App.css */
+.layout {
+  min-height: 100vh;
+}
+
+.ant-upload {
+  background: #fff;
+  border: 1px dashed #d9d9d9;
+}
+
+.ant-upload.ant-upload-drag {
+  height: 180px;
+}
+
+img {
+  max-width: 100%;
+}
